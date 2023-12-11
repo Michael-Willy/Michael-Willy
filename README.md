@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Michael-Willy, and i'm a programming lover.
 - 👀 i'm currently learning HTML5, CSS3 e JS
-- 💭 Should I learn Java?🤔
+- 💭 Should I learn Java? Which area should I follow?🤔
